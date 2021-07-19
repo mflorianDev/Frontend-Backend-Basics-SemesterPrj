@@ -1,0 +1,18 @@
+{
+    "name": "ha5-fb",
+    "version": "1.0.0",
+    "description": "Hausübung 5 - Frontend Basics",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack",
+        "build-prod": "webpack --mode production",
+        "watch": "webpack --watch"
+    },
+    "author": "Florian Mauroner",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^5.38.1",
+        "webpack-cli": "^4.7.0"
+    }
+}
