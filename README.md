@@ -1,14 +1,20 @@
 # Frontend Basics & Backend Basics - Semesterprojekt
 
+### Aufgabenstellung:
+Produktkategorien und Produkte sollen aus einer Datenbank ausgelesen und in Form von Listen im Frontend browsable dargestellt werden. Ein Warenkorb soll implementiert werden und über eine Session im Backend verwaltet werden. Einzelne Produkte sollen dem Warenkorb hinzugefügt bzw. aus diesem gelöscht werden können (mehrfach).<br/>
+
+**Topics:** Objektorientierter Ansatz, Model-View-Controller (MVC), GUI-Entwicklung, Datenbankkommunikation, Warenkorbverwaltung, Ajax, HTTP(S)-Requests, JSON, PHP-Session/-Cookies, REST-Full Service;
+
+**Tech Stack:** Javascript, CSS, HTML, jQuery, PHP, Apache, MySQL(MariaDB), bootstrap, npm, webpack
+
 ### Hinweise zur Installation/Ausführung:
 Datenbank-Datei (database.sql) in Datenbanksystem importieren.<br/>
 Vor dem Start der Anwendung/Website folgende Parameter auf das lokale System anpassen:
     - controller.js -> constructor: Variable "serverIndexPath"
 
 
-Die Anwendung sollte über die index.html aus dem "dist"-Ordner gestartet werden!<br/>
-npm und webpack wurden in das Projekt eingearbeitet (scripts siehe package.json).
-
+Die Anwendung sollte über die index.html aus dem "dist"-Ordner gestartet werden.<br/>
+npm und webpack wurden in das Projekt eingearbeitet.
 
 
 ### Ziele der Lehrveranstaltung (allgemein):
