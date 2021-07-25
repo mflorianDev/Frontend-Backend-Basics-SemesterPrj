@@ -1,12 +1,12 @@
 # Frontend Basics & Backend Basics - Semesterprojekt
 
 ### Hinweise zur Installation/Ausführung:
-Datenbank-Datei (database.sql) in Datenbanksystem importieren
+Datenbank-Datei (database.sql) in Datenbanksystem importieren.<br/>
 Vor dem Start der Anwendung/Website folgende Parameter auf das lokale System anpassen:
     - controller.js -> constructor: Variable "serverIndexPath"
 
 
-Die Anwendung sollte über die index.html aus dem "dist"-Ordner gestartet werden!
+Die Anwendung sollte über die index.html aus dem "dist"-Ordner gestartet werden!<br/>
 npm und webpack wurden in das Projekt eingearbeitet (scripts siehe package.json).
 
 
